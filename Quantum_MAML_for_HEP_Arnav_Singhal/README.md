@@ -5,13 +5,13 @@ QMAML combines classical meta-learning (MAML) with parameterized quantum circuit
 Validated on:
 
 - **Image classification:** MNIST (few-shot digit recognition)
-- **Physics data:** Higgs Boson and Quark–Gluon jet datasets
+- **HEP data:** Higgs Boson and Quark–Gluon jet datasets
 
 ![GSoC @ ML4Sci](images/GSOC%20ML4Sci.jpg)
 
 _This project was developed as part of Google Summer of Code (GSoC) 2025 under the ML4Sci organization._
 
-**Project Title:** Quantum Model-Agnostic Meta-Learning for Variational Quantum Algorithms for High Energy Physics Tasks at LHC Data
+**Project Title:** Quantum Model-Agnostic Meta-Learning for Variational Quantum Algorithms for High Energy Physics Tasks at LHC
 
 **Author:** Arnav Singhal \
 **Mentors:** KC Kong, Junyong Lee, Jeihee Cho
